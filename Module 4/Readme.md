@@ -1,4 +1,4 @@
-# Final Project of Module 3
+# Final Project of Module 4
 
 ## Description
 This is the final project for Module 4, presenting a smart contract that incorporates an ERC20 token and is successfully deployed on the Avalanche test network.
